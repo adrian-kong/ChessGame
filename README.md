@@ -1,2 +1,2 @@
 # ChessGame
-Simple chess game written in libGDX
+Simple chess game written in java with libGDX
